@@ -1,0 +1,6 @@
+{
+  "name": "CampusVoice",
+  "description": "Smart College Issue & Grievance Management System with role-based portals for students, HODs, and principals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
